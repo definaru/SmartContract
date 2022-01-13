@@ -11,7 +11,7 @@ License for more details.
 You should have received a copy of the GNU lesser General Public License along with the NeuroDAO Contract. If not, 
 see <http://www.gnu.org/licenses/>.
 
-@author Inc. Defina <info@defina.ru>
+@author iQs Solution <work.dev.i@yandex.ru>
 */
 
 pragma solidity ^0.4.0;
