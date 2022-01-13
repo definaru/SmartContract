@@ -10,3 +10,5 @@ Ethereum Developer APIs   Home APIs
 `Take advantage of our solutions
 CRM Define and CMS Defina`
 ![screenshot of sample](https://defina.ru/img/modex-smart-contract-marketplace.png)
+
+Documentation view https://docs.soliditylang.org
